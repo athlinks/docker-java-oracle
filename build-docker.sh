@@ -1,4 +1,4 @@
 #!/bin/bash
 
-docker build -t athlinks/java-oracle8-alpine . && \
+docker build -t athlinksengineering/java-oracle8-alpine . && \
 echo "SUCCESS!"
