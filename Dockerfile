@@ -1,4 +1,4 @@
-FROM athlinksengineering/alpine-3.4
+FROM athlinks/alpine:3.4
 
 # Java Version
 RUN JAVA_VERSION_MAJOR=8 && \
